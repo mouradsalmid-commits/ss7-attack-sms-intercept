@@ -6,6 +6,7 @@ How SS7 Intercept Calls and SMS
 
 ​Location Tracking: 
 
+
 software send a request to the network to find out which cell tower a device is currently using, allowing them to pinpoint the user's location in real-time.  
 
 ​Intercepting SMS (2FA Codes):
